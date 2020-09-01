@@ -1,3 +1,3 @@
 print("Hello world!")
-master
-feature/modify-print
+'master'
+'feature/modify-print'
